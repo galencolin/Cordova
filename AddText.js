@@ -16,7 +16,8 @@ function drawText() {
 
 
 function makeSentence(){
-  sentence = "The " + getAdj() + " " + getNoun() + " from " + getCity() + getVerb() + "."
+  sentence = "The " + getAdj() + " " + getNoun() + " from " + getCity() + getVerb() + ".";
+  return sentence;
 }
 
 function getAdj(){
