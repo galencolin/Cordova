@@ -10,7 +10,13 @@ function init() {
 }
 
 function drawText() {
-  ctx.fillText("TOP TEXT", 10, 90);
-  ctx.fillText("TOP TEXT", 10, 200);
+  ctx.fillText(makeSentence(), 10, 90);
+  ctx.fillText(makeSentence, 10, 200);
 }
+
+function makeSentence(){
+  //idk
+}
+  
+  
 
