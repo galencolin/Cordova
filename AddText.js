@@ -15,8 +15,21 @@ function drawText() {
 }
 
 function makeSentence(){
-  //idk
+  sentence = "The " + getAdj() + " " + getNoun() + " " getAdverb() + " " + getVerb() + "."
 }
-  
-  
+
+function getAdj(){
+}
+
+function getNoun(){
+}
+
+function getAdverb(){
+}
+
+function getVerb(){
+}
+
+
+
 
